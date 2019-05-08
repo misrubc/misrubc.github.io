@@ -8,7 +8,7 @@ layout: page
 
 <p>MISR @ SAUDER is a research group specialized in applied ML/AI research. We are interested in economics, managerial, and behavioral research questions.</p>
 
-<p>Prof. Hasan Cavusoglu and Prof. Gene Moo Lee leads the research group. </p>
+<p>Prof. Hasan Cavusoglu and Prof. Gene Moo Lee lead the research group. </p>
 
 <h2>How to reach us</h2>
 
