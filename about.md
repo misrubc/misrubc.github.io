@@ -14,7 +14,7 @@ layout: page
 
 <ul class="contact">
 	<li><a href="mailto:cavusoglu@sauder.ubc.ca">cavusoglu@sauder.ubc.ca</a></li>
-	<li><a href="mailto:gene.lee@sauder.ubc.ca">gene.lee@sauder.ubc.ca</a</li>
-	>
+	<li><a href="mailto:gene.lee@sauder.ubc.ca">gene.lee@sauder.ubc.ca</a></li>
+	
 </ul>
 
