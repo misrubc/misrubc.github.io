@@ -13,7 +13,8 @@ layout: page
 <h2>How to reach us</h2>
 
 <ul class="contact">
-	<li>[cavusoglu@sauder.ubc.ca](mailto:cavusoglu@sauder.ubc.ca)</li>
-	<li>[gene.lee@sauder.ubc.ca](mailto:gene.lee@sauder.ubc.ca)</li>
+	<li><a href="mailto:cavusoglu@sauder.ubc.ca">cavusoglu@sauder.ubc.ca</a></li>
+	<li><a href="mailto:gene.lee@sauder.ubc.ca">gene.lee@sauder.ubc.ca</a</li>
+	>
 </ul>
 
