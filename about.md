@@ -5,6 +5,7 @@ layout: page
 <!--
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 -->
+<h2>About us</h2>
 
 <p>MISR @ SAUDER is a research group specialized in quantitative research. We are interested in economics, managerial, and behavioral research questions.</p>
 
